@@ -2,9 +2,9 @@
 
 class AreaOfSquare {
     public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
+    
 
-        System.out.print("Enter side of square: ");
+       
         int side = 10;
 
         int area = side * side;
