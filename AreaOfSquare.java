@@ -5,7 +5,7 @@ class AreaOfSquare {
     
 
        
-        int side = 10;
+        int side = 20;
 
         int area = side * side;
         System.out.println("Area of square = " + area);
